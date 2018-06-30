@@ -8,7 +8,7 @@ package com.newer.client;
  */
 public class App {
 	public static void main(String[] args) {
-		System.out.println("客户端");
+		System.out.println("客户端工程");
 	}
 
 }
